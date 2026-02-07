@@ -1,0 +1,10 @@
+{
+  "app": {"title": "高度なメモ帳", "subtitle": "プロフェッショナルなノートアプリ"},
+  "sidebar": {"allNotes": "すべてのノート", "folders": "フォルダ", "newNote": "新しいノート", "newFolder": "新しいフォルダ", "search": "ノートを検索..."},
+  "editor": {"titlePlaceholder": "無題のノート", "contentPlaceholder": "ノートを入力してください...", "bold": "太字", "italic": "斜体", "underline": "下線", "strikethrough": "取り消し線", "highlight": "ハイライト", "heading1": "見出し1", "heading2": "見出し2", "heading3": "見出し3", "bulletList": "箇条書きリスト", "orderedList": "番号付きリスト", "link": "リンク", "alignLeft": "左揃え", "alignCenter": "中央揃え", "alignRight": "右揃え", "undo": "元に戻す", "redo": "やり直す"},
+  "actions": {"save": "保存", "delete": "削除", "export": "エクスポート", "exportMarkdown": "Markdownとしてエクスポート", "exportHTML": "HTMLとしてエクスポート", "exportPDF": "PDFとしてエクスポート", "cancel": "キャンセル", "confirm": "確認", "rename": "名前を変更"},
+  "theme": {"light": "ライト", "dark": "ダーク", "sepia": "セピア"},
+  "welcome": {"title": "高度なメモ帳へようこそ", "description": "リッチテキスト編集、複数のテーマ、国際対応を備えたプロフェッショナルなノートアプリです。", "getStarted": "始める", "features": {"richText": "リッチテキスト編集", "richTextDesc": "太字、斜体、リスト、リンクなどでノートをフォーマットできます。", "multiTheme": "複数のテーマ", "multiThemeDesc": "快適な読書のためにライト、ダーク、セピアのテーマから選択できます。", "i18n": "国際対応", "i18nDesc": "世界中のユーザー向けに10以上の言語で利用可能です。", "organize": "スマートな整理", "organizeDesc": "フォルダでノートを整理し、検索で素早く見つけられます。", "export": "エクスポートオプション", "exportDesc": "Markdown、HTML、PDF形式でノートをエクスポートできます。", "shortcuts": "キーボードショートカット", "shortcutsDesc": "強力なキーボードショートカットで効率的に作業できます。"}},
+  "shortcuts": {"title": "キーボードショートカット", "newNote": "新しいノート", "search": "検索", "commandPalette": "コマンドパレット", "toggleSidebar": "サイドバーの切り替え", "save": "ノートを保存"},
+  "messages": {"noteSaved": "ノートが保存されました", "noteDeleted": "ノートが削除されました", "folderCreated": "フォルダが作成されました", "folderDeleted": "フォルダが削除されました", "exportSuccess": "エクスポートに成功しました", "confirmDelete": "このノートを削除してもよろしいですか？"}
+}

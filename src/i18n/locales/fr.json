@@ -1,0 +1,84 @@
+{
+  "app": {
+    "title": "Bloc-notes Avancé",
+    "subtitle": "Application professionnelle de prise de notes"
+  },
+  "sidebar": {
+    "allNotes": "Toutes les Notes",
+    "folders": "Dossiers",
+    "newNote": "Nouvelle Note",
+    "newFolder": "Nouveau Dossier",
+    "search": "Rechercher des notes..."
+  },
+  "editor": {
+    "titlePlaceholder": "Note sans titre",
+    "contentPlaceholder": "Commencez à écrire votre note...",
+    "bold": "Gras",
+    "italic": "Italique",
+    "underline": "Souligné",
+    "strikethrough": "Barré",
+    "highlight": "Surligner",
+    "heading1": "Titre 1",
+    "heading2": "Titre 2",
+    "heading3": "Titre 3",
+    "bulletList": "Liste à puces",
+    "orderedList": "Liste numérotée",
+    "link": "Lien",
+    "alignLeft": "Aligner à gauche",
+    "alignCenter": "Centrer",
+    "alignRight": "Aligner à droite",
+    "undo": "Annuler",
+    "redo": "Rétablir"
+  },
+  "actions": {
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "export": "Exporter",
+    "exportMarkdown": "Exporter en Markdown",
+    "exportHTML": "Exporter en HTML",
+    "exportPDF": "Exporter en PDF",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "rename": "Renommer"
+  },
+  "theme": {
+    "light": "Clair",
+    "dark": "Sombre",
+    "sepia": "Sépia"
+  },
+  "welcome": {
+    "title": "Bienvenue dans Bloc-notes Avancé",
+    "description": "Une application professionnelle de prise de notes avec édition de texte enrichi, plusieurs thèmes et support international.",
+    "getStarted": "Commencer",
+    "features": {
+      "richText": "Édition de Texte Enrichi",
+      "richTextDesc": "Formatez vos notes avec gras, italique, listes, liens et plus encore.",
+      "multiTheme": "Plusieurs Thèmes",
+      "multiThemeDesc": "Choisissez parmi les thèmes clair, sombre ou sépia pour une lecture confortable.",
+      "i18n": "Support International",
+      "i18nDesc": "Disponible en plus de 10 langues pour les utilisateurs du monde entier.",
+      "organize": "Organisation Intelligente",
+      "organizeDesc": "Organisez les notes avec des dossiers et trouvez-les rapidement avec la recherche.",
+      "export": "Options d'Exportation",
+      "exportDesc": "Exportez vos notes aux formats Markdown, HTML ou PDF.",
+      "shortcuts": "Raccourcis Clavier",
+      "shortcutsDesc": "Travaillez efficacement avec de puissants raccourcis clavier."
+    }
+  },
+  "shortcuts": {
+    "title": "Raccourcis Clavier",
+    "newNote": "Nouvelle Note",
+    "search": "Rechercher",
+    "commandPalette": "Palette de Commandes",
+    "toggleSidebar": "Basculer la Barre Latérale",
+    "save": "Enregistrer la Note"
+  },
+  "messages": {
+    "noteSaved": "Note enregistrée avec succès",
+    "noteDeleted": "Note supprimée",
+    "folderCreated": "Dossier créé",
+    "folderDeleted": "Dossier supprimé",
+    "exportSuccess": "Exportation réussie",
+    "confirmDelete": "Êtes-vous sûr de vouloir supprimer cette note ?"
+  }
+}

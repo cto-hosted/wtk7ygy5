@@ -1,0 +1,84 @@
+{
+  "app": {
+    "title": "高级记事本",
+    "subtitle": "专业笔记应用程序"
+  },
+  "sidebar": {
+    "allNotes": "所有笔记",
+    "folders": "文件夹",
+    "newNote": "新建笔记",
+    "newFolder": "新建文件夹",
+    "search": "搜索笔记..."
+  },
+  "editor": {
+    "titlePlaceholder": "无标题笔记",
+    "contentPlaceholder": "开始输入您的笔记...",
+    "bold": "粗体",
+    "italic": "斜体",
+    "underline": "下划线",
+    "strikethrough": "删除线",
+    "highlight": "高亮",
+    "heading1": "标题1",
+    "heading2": "标题2",
+    "heading3": "标题3",
+    "bulletList": "项目符号列表",
+    "orderedList": "编号列表",
+    "link": "链接",
+    "alignLeft": "左对齐",
+    "alignCenter": "居中",
+    "alignRight": "右对齐",
+    "undo": "撤销",
+    "redo": "重做"
+  },
+  "actions": {
+    "save": "保存",
+    "delete": "删除",
+    "export": "导出",
+    "exportMarkdown": "导出为Markdown",
+    "exportHTML": "导出为HTML",
+    "exportPDF": "导出为PDF",
+    "cancel": "取消",
+    "confirm": "确认",
+    "rename": "重命名"
+  },
+  "theme": {
+    "light": "浅色",
+    "dark": "深色",
+    "sepia": "棕褐色"
+  },
+  "welcome": {
+    "title": "欢迎使用高级记事本",
+    "description": "专业的笔记应用程序，具有富文本编辑、多种主题和国际化支持。",
+    "getStarted": "开始使用",
+    "features": {
+      "richText": "富文本编辑",
+      "richTextDesc": "使用粗体、斜体、列表、链接等格式化您的笔记。",
+      "multiTheme": "多种主题",
+      "multiThemeDesc": "选择浅色、深色或棕褐色主题，享受舒适的阅读体验。",
+      "i18n": "国际化支持",
+      "i18nDesc": "支持10多种语言，面向全球用户。",
+      "organize": "智能组织",
+      "organizeDesc": "使用文件夹组织笔记，通过搜索快速查找。",
+      "export": "导出选项",
+      "exportDesc": "将笔记导出为Markdown、HTML或PDF格式。",
+      "shortcuts": "键盘快捷键",
+      "shortcutsDesc": "使用强大的键盘快捷键高效工作。"
+    }
+  },
+  "shortcuts": {
+    "title": "键盘快捷键",
+    "newNote": "新建笔记",
+    "search": "搜索",
+    "commandPalette": "命令面板",
+    "toggleSidebar": "切换侧边栏",
+    "save": "保存笔记"
+  },
+  "messages": {
+    "noteSaved": "笔记保存成功",
+    "noteDeleted": "笔记已删除",
+    "folderCreated": "文件夹已创建",
+    "folderDeleted": "文件夹已删除",
+    "exportSuccess": "导出成功",
+    "confirmDelete": "您确定要删除这条笔记吗？"
+  }
+}
