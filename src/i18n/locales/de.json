@@ -1,0 +1,84 @@
+{
+  "app": {
+    "title": "Erweiterte Notizen",
+    "subtitle": "Professionelle Notizanwendung"
+  },
+  "sidebar": {
+    "allNotes": "Alle Notizen",
+    "folders": "Ordner",
+    "newNote": "Neue Notiz",
+    "newFolder": "Neuer Ordner",
+    "search": "Notizen suchen..."
+  },
+  "editor": {
+    "titlePlaceholder": "Unbenannte Notiz",
+    "contentPlaceholder": "Beginnen Sie mit der Eingabe Ihrer Notiz...",
+    "bold": "Fett",
+    "italic": "Kursiv",
+    "underline": "Unterstrichen",
+    "strikethrough": "Durchgestrichen",
+    "highlight": "Hervorheben",
+    "heading1": "Überschrift 1",
+    "heading2": "Überschrift 2",
+    "heading3": "Überschrift 3",
+    "bulletList": "Aufzählungsliste",
+    "orderedList": "Nummerierte Liste",
+    "link": "Link",
+    "alignLeft": "Linksbündig",
+    "alignCenter": "Zentrieren",
+    "alignRight": "Rechtsbündig",
+    "undo": "Rückgängig",
+    "redo": "Wiederherstellen"
+  },
+  "actions": {
+    "save": "Speichern",
+    "delete": "Löschen",
+    "export": "Exportieren",
+    "exportMarkdown": "Als Markdown exportieren",
+    "exportHTML": "Als HTML exportieren",
+    "exportPDF": "Als PDF exportieren",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "rename": "Umbenennen"
+  },
+  "theme": {
+    "light": "Hell",
+    "dark": "Dunkel",
+    "sepia": "Sepia"
+  },
+  "welcome": {
+    "title": "Willkommen bei Erweiterte Notizen",
+    "description": "Eine professionelle Notizanwendung mit Rich-Text-Bearbeitung, mehreren Designs und internationaler Unterstützung.",
+    "getStarted": "Loslegen",
+    "features": {
+      "richText": "Rich-Text-Bearbeitung",
+      "richTextDesc": "Formatieren Sie Ihre Notizen mit Fett, Kursiv, Listen, Links und mehr.",
+      "multiTheme": "Mehrere Designs",
+      "multiThemeDesc": "Wählen Sie zwischen hellen, dunklen oder Sepia-Designs für komfortables Lesen.",
+      "i18n": "Internationale Unterstützung",
+      "i18nDesc": "Verfügbar in mehr als 10 Sprachen für Benutzer auf der ganzen Welt.",
+      "organize": "Intelligente Organisation",
+      "organizeDesc": "Organisieren Sie Notizen mit Ordnern und finden Sie sie schnell mit der Suche.",
+      "export": "Export-Optionen",
+      "exportDesc": "Exportieren Sie Ihre Notizen in Markdown-, HTML- oder PDF-Formate.",
+      "shortcuts": "Tastaturkürzel",
+      "shortcutsDesc": "Arbeiten Sie effizient mit leistungsstarken Tastaturkürzeln."
+    }
+  },
+  "shortcuts": {
+    "title": "Tastaturkürzel",
+    "newNote": "Neue Notiz",
+    "search": "Suchen",
+    "commandPalette": "Befehlspalette",
+    "toggleSidebar": "Seitenleiste umschalten",
+    "save": "Notiz speichern"
+  },
+  "messages": {
+    "noteSaved": "Notiz erfolgreich gespeichert",
+    "noteDeleted": "Notiz gelöscht",
+    "folderCreated": "Ordner erstellt",
+    "folderDeleted": "Ordner gelöscht",
+    "exportSuccess": "Export erfolgreich",
+    "confirmDelete": "Möchten Sie diese Notiz wirklich löschen?"
+  }
+}

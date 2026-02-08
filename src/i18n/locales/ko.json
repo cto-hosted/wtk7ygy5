@@ -1,0 +1,10 @@
+{
+  "app": {"title": "고급 메모장", "subtitle": "전문 메모 애플리케이션"},
+  "sidebar": {"allNotes": "모든 메모", "folders": "폴더", "newNote": "새 메모", "newFolder": "새 폴더", "search": "메모 검색..."},
+  "editor": {"titlePlaceholder": "제목 없는 메모", "contentPlaceholder": "메모를 입력하세요...", "bold": "굵게", "italic": "기울임", "underline": "밑줄", "strikethrough": "취소선", "highlight": "강조", "heading1": "제목 1", "heading2": "제목 2", "heading3": "제목 3", "bulletList": "글머리 기호 목록", "orderedList": "번호 매기기 목록", "link": "링크", "alignLeft": "왼쪽 정렬", "alignCenter": "가운데 정렬", "alignRight": "오른쪽 정렬", "undo": "실행 취소", "redo": "다시 실행"},
+  "actions": {"save": "저장", "delete": "삭제", "export": "내보내기", "exportMarkdown": "Markdown으로 내보내기", "exportHTML": "HTML로 내보내기", "exportPDF": "PDF로 내보내기", "cancel": "취소", "confirm": "확인", "rename": "이름 바꾸기"},
+  "theme": {"light": "라이트", "dark": "다크", "sepia": "세피아"},
+  "welcome": {"title": "고급 메모장에 오신 것을 환영합니다", "description": "서식 있는 텍스트 편집, 여러 테마 및 국제 지원을 갖춘 전문 메모 애플리케이션입니다.", "getStarted": "시작하기", "features": {"richText": "서식 있는 텍스트 편집", "richTextDesc": "굵게, 기울임, 목록, 링크 등으로 메모를 서식 지정할 수 있습니다.", "multiTheme": "여러 테마", "multiThemeDesc": "편안한 읽기를 위해 라이트, 다크 또는 세피아 테마 중에서 선택하세요.", "i18n": "국제 지원", "i18nDesc": "전 세계 사용자를 위해 10개 이상의 언어로 제공됩니다.", "organize": "스마트 구성", "organizeDesc": "폴더로 메모를 구성하고 검색으로 빠르게 찾을 수 있습니다.", "export": "내보내기 옵션", "exportDesc": "Markdown, HTML 또는 PDF 형식으로 메모를 내보낼 수 있습니다.", "shortcuts": "키보드 단축키", "shortcutsDesc": "강력한 키보드 단축키로 효율적으로 작업할 수 있습니다."}},
+  "shortcuts": {"title": "키보드 단축키", "newNote": "새 메모", "search": "검색", "commandPalette": "명령 팔레트", "toggleSidebar": "사이드바 전환", "save": "메모 저장"},
+  "messages": {"noteSaved": "메모가 저장되었습니다", "noteDeleted": "메모가 삭제되었습니다", "folderCreated": "폴더가 생성되었습니다", "folderDeleted": "폴더가 삭제되었습니다", "exportSuccess": "내보내기 성공", "confirmDelete": "이 메모를 삭제하시겠습니까?"}
+}

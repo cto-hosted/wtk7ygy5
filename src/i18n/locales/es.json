@@ -1,0 +1,84 @@
+{
+  "app": {
+    "title": "Bloc de Notas Avanzado",
+    "subtitle": "Aplicación profesional de notas"
+  },
+  "sidebar": {
+    "allNotes": "Todas las Notas",
+    "folders": "Carpetas",
+    "newNote": "Nueva Nota",
+    "newFolder": "Nueva Carpeta",
+    "search": "Buscar notas..."
+  },
+  "editor": {
+    "titlePlaceholder": "Nota sin título",
+    "contentPlaceholder": "Comienza a escribir tu nota...",
+    "bold": "Negrita",
+    "italic": "Cursiva",
+    "underline": "Subrayado",
+    "strikethrough": "Tachado",
+    "highlight": "Resaltar",
+    "heading1": "Encabezado 1",
+    "heading2": "Encabezado 2",
+    "heading3": "Encabezado 3",
+    "bulletList": "Lista con viñetas",
+    "orderedList": "Lista numerada",
+    "link": "Enlace",
+    "alignLeft": "Alinear a la izquierda",
+    "alignCenter": "Centrar",
+    "alignRight": "Alinear a la derecha",
+    "undo": "Deshacer",
+    "redo": "Rehacer"
+  },
+  "actions": {
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "export": "Exportar",
+    "exportMarkdown": "Exportar como Markdown",
+    "exportHTML": "Exportar como HTML",
+    "exportPDF": "Exportar como PDF",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "rename": "Renombrar"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro",
+    "sepia": "Sepia"
+  },
+  "welcome": {
+    "title": "Bienvenido a Bloc de Notas Avanzado",
+    "description": "Una aplicación profesional de notas con edición de texto enriquecido, múltiples temas y soporte internacional.",
+    "getStarted": "Comenzar",
+    "features": {
+      "richText": "Edición de Texto Enriquecido",
+      "richTextDesc": "Formatea tus notas con negrita, cursiva, listas, enlaces y más.",
+      "multiTheme": "Múltiples Temas",
+      "multiThemeDesc": "Elige entre temas claro, oscuro o sepia para una lectura cómoda.",
+      "i18n": "Soporte Internacional",
+      "i18nDesc": "Disponible en más de 10 idiomas para usuarios de todo el mundo.",
+      "organize": "Organización Inteligente",
+      "organizeDesc": "Organiza notas con carpetas y encuéntralas rápidamente con búsqueda.",
+      "export": "Opciones de Exportación",
+      "exportDesc": "Exporta tus notas a formatos Markdown, HTML o PDF.",
+      "shortcuts": "Atajos de Teclado",
+      "shortcutsDesc": "Trabaja eficientemente con potentes atajos de teclado."
+    }
+  },
+  "shortcuts": {
+    "title": "Atajos de Teclado",
+    "newNote": "Nueva Nota",
+    "search": "Buscar",
+    "commandPalette": "Paleta de Comandos",
+    "toggleSidebar": "Alternar Barra Lateral",
+    "save": "Guardar Nota"
+  },
+  "messages": {
+    "noteSaved": "Nota guardada exitosamente",
+    "noteDeleted": "Nota eliminada",
+    "folderCreated": "Carpeta creada",
+    "folderDeleted": "Carpeta eliminada",
+    "exportSuccess": "Exportación exitosa",
+    "confirmDelete": "¿Estás seguro de que quieres eliminar esta nota?"
+  }
+}
