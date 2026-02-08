@@ -3,11 +3,12 @@ import { useTranslation } from 'react-i18next';
 import { useUIStore } from '../../stores/uiStore';
 import { useNotesStore } from '../../stores/notesStore';
 import { X, FileText, FolderPlus } from 'lucide-react';
+import type { LucideIcon } from 'lucide-react';
 
 interface Command {
   id: string;
   label: string;
-  icon: any;
+  icon: LucideIcon;
   action: () => void;
 }
 

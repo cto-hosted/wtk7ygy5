@@ -1,13 +1,14 @@
 import { useTranslation } from 'react-i18next';
 import { useUIStore } from '../../stores/uiStore';
 import { Menu, Sun, Moon, Palette, Globe, Command } from 'lucide-react';
+import type { LucideIcon } from 'lucide-react';
 import type { Theme, Language } from '../../types';
 
 export const Header = () => {
   const { t } = useTranslation();
   const { theme, language, setTheme, setLanguage, toggleSidebar, toggleCommandPalette } = useUIStore();
 
-  const themes: { value: Theme; icon: any; label: string }[] = [
+  const themes: { value: Theme; icon: LucideIcon; label: string }[] = [
     { value: 'light', icon: Sun, label: t('theme.light') },
     { value: 'dark', icon: Moon, label: t('theme.dark') },
     { value: 'sepia', icon: Palette, label: t('theme.sepia') },

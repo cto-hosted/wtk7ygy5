@@ -1,8 +1,14 @@
-import { useEffect } from 'react';
+import { useEffect, useRef } from 'react';
 
 type KeyboardHandler = (event: KeyboardEvent) => void;
 
-export const useKeyboard = (key: string, handler: KeyboardHandler, deps: any[] = []) => {
+export const useKeyboard = (key: string, handler: KeyboardHandler) => {
+  const handlerRef = useRef(handler);
+
+  useEffect(() => {
+    handlerRef.current = handler;
+  }, [handler]);
+
   useEffect(() => {
     const handleKeyPress = (event: KeyboardEvent) => {
       const keys = key.split('+').map(k => k.trim().toLowerCase());
@@ -22,7 +28,7 @@ export const useKeyboard = (key: string, handler: KeyboardHandler, deps: any[] =
         event.key.toLowerCase() === mainKey
       ) {
         event.preventDefault();
-        handler(event);
+        handlerRef.current(event);
       }
     };
 
@@ -30,5 +36,5 @@ export const useKeyboard = (key: string, handler: KeyboardHandler, deps: any[] =
     return () => {
       window.removeEventListener('keydown', handleKeyPress);
     };
-  }, deps);
+  }, [key]);
 };

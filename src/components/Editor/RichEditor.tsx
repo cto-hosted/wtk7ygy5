@@ -7,6 +7,7 @@ import Link from '@tiptap/extension-link';
 import { TextStyle } from '@tiptap/extension-text-style';
 import { Color } from '@tiptap/extension-color';
 import { useTranslation } from 'react-i18next';
+import type { LucideIcon } from 'lucide-react';
 import {
   Bold,
   Italic,
@@ -30,6 +31,31 @@ interface RichEditorProps {
   content: string;
   onChange: (content: string) => void;
 }
+
+interface ToolbarButtonProps {
+  onClick: () => void;
+  active?: boolean;
+  icon: LucideIcon;
+  title: string;
+}
+
+const ToolbarButton = ({
+  onClick,
+  active,
+  icon: Icon,
+  title,
+}: ToolbarButtonProps) => (
+  <button
+    type="button"
+    onClick={onClick}
+    className={`p-2 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors ${
+      active ? 'bg-gray-300 dark:bg-gray-600' : ''
+    }`}
+    title={title}
+  >
+    <Icon size={18} />
+  </button>
+);
 
 export const RichEditor = ({ content, onChange }: RichEditorProps) => {
   const { t } = useTranslation();
@@ -62,29 +88,6 @@ export const RichEditor = ({ content, onChange }: RichEditorProps) => {
   if (!editor) {
     return null;
   }
-
-  const ToolbarButton = ({
-    onClick,
-    active,
-    icon: Icon,
-    title,
-  }: {
-    onClick: () => void;
-    active?: boolean;
-    icon: any;
-    title: string;
-  }) => (
-    <button
-      type="button"
-      onClick={onClick}
-      className={`p-2 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors ${
-        active ? 'bg-gray-300 dark:bg-gray-600' : ''
-      }`}
-      title={title}
-    >
-      <Icon size={18} />
-    </button>
-  );
 
   return (
     <div className="border border-gray-300 dark:border-gray-600 rounded-lg overflow-hidden bg-white dark:bg-gray-800 sepia:bg-sepia-100">

@@ -41,7 +41,9 @@ function App() {
 
   useEffect(() => {
     if (currentNote) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setTitle(currentNote.title);
+       
       setContent(currentNote.content);
     }
   }, [currentNote]);
