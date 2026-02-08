@@ -1,0 +1,64 @@
+{
+  "app": {
+    "name": "Notepad",
+    "tagline": "Your thoughts, organized"
+  },
+  "actions": {
+    "newNote": "New Note",
+    "newFolder": "New Folder",
+    "save": "Save",
+    "delete": "Delete",
+    "rename": "Rename",
+    "export": "Export",
+    "exportMarkdown": "Export as Markdown",
+    "exportHTML": "Export as HTML",
+    "exportPDF": "Export as PDF",
+    "search": "Search",
+    "settings": "Settings",
+    "close": "Close"
+  },
+  "editor": {
+    "titlePlaceholder": "Untitled Note",
+    "contentPlaceholder": "Start writing...",
+    "bold": "Bold",
+    "italic": "Italic",
+    "underline": "Underline",
+    "heading": "Heading",
+    "bulletList": "Bullet List",
+    "orderedList": "Ordered List",
+    "link": "Link",
+    "code": "Code",
+    "blockquote": "Quote"
+  },
+  "sidebar": {
+    "allNotes": "All Notes",
+    "folders": "Folders",
+    "tags": "Tags",
+    "untagged": "Untagged"
+  },
+  "themes": {
+    "light": "Light",
+    "dark": "Dark",
+    "sepia": "Sepia"
+  },
+  "commandPalette": {
+    "placeholder": "Search notes, folders, or actions...",
+    "noResults": "No results found",
+    "recent": "Recent",
+    "actions": "Actions"
+  },
+  "messages": {
+    "confirmDelete": "Are you sure you want to delete this?",
+    "noteCreated": "Note created",
+    "noteSaved": "Note saved",
+    "noteDeleted": "Note deleted",
+    "folderCreated": "Folder created",
+    "folderDeleted": "Folder deleted"
+  },
+  "welcome": {
+    "title": "Welcome to Notepad",
+    "subtitle": "Select a note or create a new one to get started",
+    "createNote": "Create your first note",
+    "shortcutHint": "Press Ctrl+N to create a new note"
+  }
+}

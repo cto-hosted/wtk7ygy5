@@ -1,0 +1,64 @@
+{
+  "app": {
+    "name": "メモ帳",
+    "tagline": "あなたの考えを整理"
+  },
+  "actions": {
+    "newNote": "新規メモ",
+    "newFolder": "新規フォルダ",
+    "save": "保存",
+    "delete": "削除",
+    "rename": "名前を変更",
+    "export": "エクスポート",
+    "exportMarkdown": "Markdownとしてエクスポート",
+    "exportHTML": "HTMLとしてエクスポート",
+    "exportPDF": "PDFとしてエクスポート",
+    "search": "検索",
+    "settings": "設定",
+    "close": "閉じる"
+  },
+  "editor": {
+    "titlePlaceholder": "無題のメモ",
+    "contentPlaceholder": "書き始めてください...",
+    "bold": "太字",
+    "italic": "斜体",
+    "underline": "下線",
+    "heading": "見出し",
+    "bulletList": "箇条書き",
+    "orderedList": "番号付きリスト",
+    "link": "リンク",
+    "code": "コード",
+    "blockquote": "引用"
+  },
+  "sidebar": {
+    "allNotes": "すべてのメモ",
+    "folders": "フォルダ",
+    "tags": "タグ",
+    "untagged": "タグなし"
+  },
+  "themes": {
+    "light": "ライト",
+    "dark": "ダーク",
+    "sepia": "セピア"
+  },
+  "commandPalette": {
+    "placeholder": "メモ、フォルダ、アクションを検索...",
+    "noResults": "結果が見つかりません",
+    "recent": "最近",
+    "actions": "アクション"
+  },
+  "messages": {
+    "confirmDelete": "削除してもよろしいですか？",
+    "noteCreated": "メモを作成しました",
+    "noteSaved": "メモを保存しました",
+    "noteDeleted": "メモを削除しました",
+    "folderCreated": "フォルダを作成しました",
+    "folderDeleted": "フォルダを削除しました"
+  },
+  "welcome": {
+    "title": "メモ帳へようこそ",
+    "subtitle": "メモを選択するか、新規作成してください",
+    "createNote": "最初のメモを作成",
+    "shortcutHint": "Ctrl+N で新規メモを作成"
+  }
+}
