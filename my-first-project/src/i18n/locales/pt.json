@@ -1,0 +1,64 @@
+{
+  "app": {
+    "name": "Bloco de Notas",
+    "tagline": "Seus pensamentos, organizados"
+  },
+  "actions": {
+    "newNote": "Nova Nota",
+    "newFolder": "Nova Pasta",
+    "save": "Salvar",
+    "delete": "Excluir",
+    "rename": "Renomear",
+    "export": "Exportar",
+    "exportMarkdown": "Exportar como Markdown",
+    "exportHTML": "Exportar como HTML",
+    "exportPDF": "Exportar como PDF",
+    "search": "Pesquisar",
+    "settings": "Configurações",
+    "close": "Fechar"
+  },
+  "editor": {
+    "titlePlaceholder": "Nota sem título",
+    "contentPlaceholder": "Comece a escrever...",
+    "bold": "Negrito",
+    "italic": "Itálico",
+    "underline": "Sublinhado",
+    "heading": "Título",
+    "bulletList": "Lista com marcadores",
+    "orderedList": "Lista numerada",
+    "link": "Link",
+    "code": "Código",
+    "blockquote": "Citação"
+  },
+  "sidebar": {
+    "allNotes": "Todas as Notas",
+    "folders": "Pastas",
+    "tags": "Tags",
+    "untagged": "Sem tag"
+  },
+  "themes": {
+    "light": "Claro",
+    "dark": "Escuro",
+    "sepia": "Sépia"
+  },
+  "commandPalette": {
+    "placeholder": "Pesquisar notas, pastas ou ações...",
+    "noResults": "Nenhum resultado encontrado",
+    "recent": "Recente",
+    "actions": "Ações"
+  },
+  "messages": {
+    "confirmDelete": "Tem certeza de que deseja excluir?",
+    "noteCreated": "Nota criada",
+    "noteSaved": "Nota salva",
+    "noteDeleted": "Nota excluída",
+    "folderCreated": "Pasta criada",
+    "folderDeleted": "Pasta excluída"
+  },
+  "welcome": {
+    "title": "Bem-vindo ao Bloco de Notas",
+    "subtitle": "Selecione uma nota ou crie uma nova para começar",
+    "createNote": "Crie sua primeira nota",
+    "shortcutHint": "Pressione Ctrl+N para criar uma nova nota"
+  }
+}

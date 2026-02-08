@@ -1,0 +1,64 @@
+{
+  "app": {
+    "name": "المفكرة",
+    "tagline": "أفكارك، منظمة"
+  },
+  "actions": {
+    "newNote": "ملاحظة جديدة",
+    "newFolder": "مجلد جديد",
+    "save": "حفظ",
+    "delete": "حذف",
+    "rename": "إعادة تسمية",
+    "export": "تصدير",
+    "exportMarkdown": "تصدير كـ Markdown",
+    "exportHTML": "تصدير كـ HTML",
+    "exportPDF": "تصدير كـ PDF",
+    "search": "بحث",
+    "settings": "الإعدادات",
+    "close": "إغلاق"
+  },
+  "editor": {
+    "titlePlaceholder": "ملاحظة بلا عنوان",
+    "contentPlaceholder": "ابدأ الكتابة...",
+    "bold": "عريض",
+    "italic": "مائل",
+    "underline": "تسطير",
+    "heading": "عنوان",
+    "bulletList": "قائمة نقطية",
+    "orderedList": "قائمة مرقمة",
+    "link": "رابط",
+    "code": "كود",
+    "blockquote": "اقتباس"
+  },
+  "sidebar": {
+    "allNotes": "جميع الملاحظات",
+    "folders": "المجلدات",
+    "tags": "الوسوم",
+    "untagged": "بدون وسم"
+  },
+  "themes": {
+    "light": "فاتح",
+    "dark": "داكن",
+    "sepia": "بني"
+  },
+  "commandPalette": {
+    "placeholder": "البحث في الملاحظات والمجلدات والإجراءات...",
+    "noResults": "لم يتم العثور على نتائج",
+    "recent": "حديث",
+    "actions": "إجراءات"
+  },
+  "messages": {
+    "confirmDelete": "هل أنت متأكد من الحذف؟",
+    "noteCreated": "تم إنشاء الملاحظة",
+    "noteSaved": "تم حفظ الملاحظة",
+    "noteDeleted": "تم حذف الملاحظة",
+    "folderCreated": "تم إنشاء المجلد",
+    "folderDeleted": "تم حذف المجلد"
+  },
+  "welcome": {
+    "title": "مرحبًا بك في المفكرة",
+    "subtitle": "حدد ملاحظة أو أنشئ ملاحظة جديدة للبدء",
+    "createNote": "أنشئ ملاحظتك الأولى",
+    "shortcutHint": "اضغط Ctrl+N لإنشاء ملاحظة جديدة"
+  }
+}

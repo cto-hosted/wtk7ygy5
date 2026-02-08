@@ -1,0 +1,64 @@
+{
+  "app": {
+    "name": "Bloc-notes",
+    "tagline": "Vos pensées, organisées"
+  },
+  "actions": {
+    "newNote": "Nouvelle Note",
+    "newFolder": "Nouveau Dossier",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "rename": "Renommer",
+    "export": "Exporter",
+    "exportMarkdown": "Exporter en Markdown",
+    "exportHTML": "Exporter en HTML",
+    "exportPDF": "Exporter en PDF",
+    "search": "Rechercher",
+    "settings": "Paramètres",
+    "close": "Fermer"
+  },
+  "editor": {
+    "titlePlaceholder": "Note sans titre",
+    "contentPlaceholder": "Commencez à écrire...",
+    "bold": "Gras",
+    "italic": "Italique",
+    "underline": "Souligné",
+    "heading": "Titre",
+    "bulletList": "Liste à puces",
+    "orderedList": "Liste numérotée",
+    "link": "Lien",
+    "code": "Code",
+    "blockquote": "Citation"
+  },
+  "sidebar": {
+    "allNotes": "Toutes les Notes",
+    "folders": "Dossiers",
+    "tags": "Tags",
+    "untagged": "Non tagué"
+  },
+  "themes": {
+    "light": "Clair",
+    "dark": "Sombre",
+    "sepia": "Sépia"
+  },
+  "commandPalette": {
+    "placeholder": "Rechercher des notes, dossiers ou actions...",
+    "noResults": "Aucun résultat trouvé",
+    "recent": "Récent",
+    "actions": "Actions"
+  },
+  "messages": {
+    "confirmDelete": "Êtes-vous sûr de vouloir supprimer ceci ?",
+    "noteCreated": "Note créée",
+    "noteSaved": "Note enregistrée",
+    "noteDeleted": "Note supprimée",
+    "folderCreated": "Dossier créé",
+    "folderDeleted": "Dossier supprimé"
+  },
+  "welcome": {
+    "title": "Bienvenue dans le Bloc-notes",
+    "subtitle": "Sélectionnez une note ou créez-en une nouvelle pour commencer",
+    "createNote": "Créez votre première note",
+    "shortcutHint": "Appuyez sur Ctrl+N pour créer une nouvelle note"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "app": {
+    "name": "नोटपैड",
+    "tagline": "आपके विचार, व्यवस्थित"
+  },
+  "actions": {
+    "newNote": "नई नोट",
+    "newFolder": "नया फ़ोल्डर",
+    "save": "सहेजें",
+    "delete": "हटाएं",
+    "rename": "नाम बदलें",
+    "export": "निर्यात",
+    "exportMarkdown": "Markdown के रूप में निर्यात",
+    "exportHTML": "HTML के रूप में निर्यात",
+    "exportPDF": "PDF के रूप में निर्यात",
+    "search": "खोजें",
+    "settings": "सेटिंग्स",
+    "close": "बंद करें"
+  },
+  "editor": {
+    "titlePlaceholder": "शीर्षकहीन नोट",
+    "contentPlaceholder": "लिखना शुरू करें...",
+    "bold": "बोल्ड",
+    "italic": "इटैलिक",
+    "underline": "रेखांकित",
+    "heading": "शीर्षक",
+    "bulletList": "बुलेट सूची",
+    "orderedList": "क्रमांकित सूची",
+    "link": "लिंक",
+    "code": "कोड",
+    "blockquote": "उद्धरण"
+  },
+  "sidebar": {
+    "allNotes": "सभी नोट्स",
+    "folders": "फ़ोल्डर",
+    "tags": "टैग्स",
+    "untagged": "अनटैग्ड"
+  },
+  "themes": {
+    "light": "हल्का",
+    "dark": "गहरा",
+    "sepia": "सीपिया"
+  },
+  "commandPalette": {
+    "placeholder": "नोट्स, फ़ोल्डर या कार्रवाइयां खोजें...",
+    "noResults": "कोई परिणाम नहीं मिला",
+    "recent": "हाल का",
+    "actions": "कार्रवाइयां"
+  },
+  "messages": {
+    "confirmDelete": "क्या आप वाकई हटाना चाहते हैं?",
+    "noteCreated": "नोट बनाई गई",
+    "noteSaved": "नोट सहेजी गई",
+    "noteDeleted": "नोट हटाई गई",
+    "folderCreated": "फ़ोल्डर बनाया गया",
+    "folderDeleted": "फ़ोल्डर हटाया गया"
+  },
+  "welcome": {
+    "title": "नोटपैड में आपका स्वागत है",
+    "subtitle": "एक नोट चुनें या नया बनाना शुरू करें",
+    "createNote": "अपनी पहली नोट बनाएं",
+    "shortcutHint": "नई नोट बनाने के लिए Ctrl+N दबाएं"
+  }
+}

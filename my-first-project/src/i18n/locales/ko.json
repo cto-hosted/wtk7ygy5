@@ -1,0 +1,64 @@
+{
+  "app": {
+    "name": "메모장",
+    "tagline": "당신의 생각을 정리하세요"
+  },
+  "actions": {
+    "newNote": "새 메모",
+    "newFolder": "새 폴더",
+    "save": "저장",
+    "delete": "삭제",
+    "rename": "이름 변경",
+    "export": "낳출",
+    "exportMarkdown": "Markdown으로 낳출",
+    "exportHTML": "HTML으로 낳출",
+    "exportPDF": "PDF로 낳출",
+    "search": "검색",
+    "settings": "설정",
+    "close": "닫기"
+  },
+  "editor": {
+    "titlePlaceholder": "제목 없는 메모",
+    "contentPlaceholder": "작성을 시작하세요...",
+    "bold": "굵게",
+    "italic": "기울임",
+    "underline": "밑줄",
+    "heading": "제목",
+    "bulletList": "글머리 기호",
+    "orderedList": "번호 매기기",
+    "link": "링크",
+    "code": "코드",
+    "blockquote": "인용"
+  },
+  "sidebar": {
+    "allNotes": "모든 메모",
+    "folders": "폴터",
+    "tags": "태그",
+    "untagged": "태그 없음"
+  },
+  "themes": {
+    "light": "밝게",
+    "dark": "어둡게",
+    "sepia": "세피아"
+  },
+  "commandPalette": {
+    "placeholder": "메모, 폴터 또는 동작 검색...",
+    "noResults": "결과를 찾을 수 없습니다",
+    "recent": "최근",
+    "actions": "동작"
+  },
+  "messages": {
+    "confirmDelete": "삭제하시겠습니까?",
+    "noteCreated": "메모가 생성되었습니다",
+    "noteSaved": "메모가 저장되었습니다",
+    "noteDeleted": "메모가 삭제되었습니다",
+    "folderCreated": "폴터가 생성되었습니다",
+    "folderDeleted": "폴터가 삭제되었습니다"
+  },
+  "welcome": {
+    "title": "메모장에 오신 것을 환영합니다",
+    "subtitle": "메모를 선택하거나 새로 만들어 시작하세요",
+    "createNote": "첫 번째 메모 만들기",
+    "shortcutHint": "Ctrl+N을 눌러 새 메모 만들기"
+  }
+}
