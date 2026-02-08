@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "المفكرة الاحترافية",
+    "searchPlaceholder": "البحث في الملاحظات...",
+    "newNote": "ملاحظة جديدة",
+    "newFolder": "مجلد جديد",
+    "settings": "الإعدادات",
+    "toggleTheme": "تغيير المظهر",
+    "toggleLanguage": "تغيير اللغة"
+  },
+  "editor": {
+    "placeholder": "ابدأ بكتابة ملاحظتك...",
+    "bold": "عريض",
+    "italic": "مائل",
+    "underline": "تسطير",
+    "strike": "شطب",
+    "code": "رمز",
+    "heading": "عنوان",
+    "quote": "اقتباس",
+    "list": "قائمة",
+    "bulletList": "قائمة نقطية",
+    "orderedList": "قائمة مرقمة",
+    "taskList": "قائمة مهام",
+    "link": "رابط",
+    "image": "صورة",
+    "table": "جدول",
+    "clearFormat": "مسح التنسيق",
+    "undo": "تراجع",
+    "redo": "إعادة"
+  },
+  "sidebar": {
+    "allNotes": "جميع الملاحظات",
+    "favorites": "المفضلة",
+    "recent": "الحديثة",
+    "trash": "سلة المحذوفات",
+    "folders": "المجلدات",
+    "renameFolder": "إعادة تسمية المجلد",
+    "deleteFolder": "حذف المجلد"
+  },
+  "commands": {
+    "title": "لوحة الأوامر",
+    "placeholder": "اكتب أمراً أو ابحث...",
+    "categories": {
+      "file": "ملف",
+      "edit": "تحرير",
+      "view": "عرض",
+      "help": "مساعدة"
+    }
+  },
+  "settings": {
+    "theme": "المظهر",
+    "language": "اللغة",
+    "fontSize": "حجم الخط",
+    "fontFamily": "الخط",
+    "autoSave": "الحفظ التلقائي",
+    "autoSaveInterval": "فترة الحفظ التلقائي (ms)",
+    "showLineNumbers": "إظهار أرقام الأسطر",
+    "wordWrap": "التفاف النص",
+    "themes": {
+      "light": "فاتح",
+      "dark": "داكن",
+      "system": "النظام"
+    }
+  },
+  "export": {
+    "title": "تصدير",
+    "txt": "نص عادي (.txt)",
+    "html": "HTML (.html)",
+    "md": "Markdown (.md)",
+    "json": "JSON (.json)",
+    "allNotes": "تصدير جميع الملاحظات"
+  },
+  "notes": {
+    "untitled": "ملاحظة بدون عنوان",
+    "lastModified": "آخر تعديل",
+    "pin": "تثبيت",
+    "unpin": "إلغاء التثبيت",
+    "duplicate": "نسخ",
+    "delete": "حذف",
+    "rename": "إعادة التسمية",
+    "moveToFolder": "نقل إلى مجلد"
+  },
+  "toolbar": {
+    "viewMode": "وضع العرض",
+    "editor": "المحرر",
+    "preview": "معاينة",
+    "split": "عرض منقسم",
+    "exportNote": "تصدير الملاحظة"
+  },
+  "common": {
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "confirm": "تأكيد",
+    "close": "إغلاق",
+    "search": "بحث",
+    "filter": "تصفية",
+    "sort": "ترتيب",
+    "more": "المزيد"
+  }
+}
