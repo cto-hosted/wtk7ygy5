@@ -1,0 +1,118 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+  }
+}
+
+@layer components {
+  .editor-content {
+    @apply prose prose-sm sm:prose-base lg:prose-lg dark:prose-invert max-w-none;
+  }
+
+  .editor-content p {
+    @apply my-2;
+  }
+
+  .editor-content h1 {
+    @apply text-3xl font-bold mt-6 mb-4;
+  }
+
+  .editor-content h2 {
+    @apply text-2xl font-bold mt-5 mb-3;
+  }
+
+  .editor-content h3 {
+    @apply text-xl font-bold mt-4 mb-2;
+  }
+
+  .editor-content ul,
+  .editor-content ol {
+    @apply my-2 ml-6;
+  }
+
+  .editor-content ul {
+    @apply list-disc;
+  }
+
+  .editor-content ol {
+    @apply list-decimal;
+  }
+
+  .editor-content blockquote {
+    @apply border-l-4 border-gray-300 dark:border-gray-600 pl-4 italic my-4;
+  }
+
+  .editor-content pre {
+    @apply bg-gray-100 dark:bg-gray-800 p-4 rounded-lg overflow-x-auto my-4;
+  }
+
+  .editor-content code {
+    @apply bg-gray-100 dark:bg-gray-800 px-1 py-0.5 rounded text-sm;
+  }
+
+  .editor-content pre code {
+    @apply bg-transparent p-0;
+  }
+
+  .editor-content a {
+    @apply text-blue-500 hover:text-blue-600 underline;
+  }
+
+  .editor-content hr {
+    @apply my-6 border-gray-300 dark:border-gray-600;
+  }
+
+  .editor-content table {
+    @apply w-full my-4 border-collapse;
+  }
+
+  .editor-content th,
+  .editor-content td {
+    @apply border border-gray-300 dark:border-gray-600 px-4 py-2;
+  }
+
+  .editor-content th {
+    @apply bg-gray-100 dark:bg-gray-800 font-semibold;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ProseMirror {
+  outline: none;
+  min-height: 300px;
+}
+
+.ProseMirror p.is-editor-empty:first-child::before {
+  content: attr(data-placeholder);
+  float: left;
+  color: #9ca3af;
+  pointer-events: none;
+  height: 0;
+}
+
+.ProseMirror-selectednode {
+  outline: 2px solid #3b82f6;
+}

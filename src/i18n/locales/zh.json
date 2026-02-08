@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "专业记事本",
+    "searchPlaceholder": "搜索笔记...",
+    "newNote": "新建笔记",
+    "newFolder": "新建文件夹",
+    "settings": "设置",
+    "toggleTheme": "切换主题",
+    "toggleLanguage": "切换语言"
+  },
+  "editor": {
+    "placeholder": "开始输入您的笔记...",
+    "bold": "粗体",
+    "italic": "斜体",
+    "underline": "下划线",
+    "strike": "删除线",
+    "code": "代码",
+    "heading": "标题",
+    "quote": "引用",
+    "list": "列表",
+    "bulletList": "项目符号列表",
+    "orderedList": "编号列表",
+    "taskList": "任务列表",
+    "link": "链接",
+    "image": "图片",
+    "table": "表格",
+    "clearFormat": "清除格式",
+    "undo": "撤销",
+    "redo": "重做"
+  },
+  "sidebar": {
+    "allNotes": "所有笔记",
+    "favorites": "收藏",
+    "recent": "最近",
+    "trash": "回收站",
+    "folders": "文件夹",
+    "renameFolder": "重命名文件夹",
+    "deleteFolder": "删除文件夹"
+  },
+  "commands": {
+    "title": "命令面板",
+    "placeholder": "输入命令或搜索...",
+    "categories": {
+      "file": "文件",
+      "edit": "编辑",
+      "view": "视图",
+      "help": "帮助"
+    }
+  },
+  "settings": {
+    "theme": "主题",
+    "language": "语言",
+    "fontSize": "字体大小",
+    "fontFamily": "字体",
+    "autoSave": "自动保存",
+    "autoSaveInterval": "自动保存间隔 (毫秒)",
+    "showLineNumbers": "显示行号",
+    "wordWrap": "自动换行",
+    "themes": {
+      "light": "浅色",
+      "dark": "深色",
+      "system": "跟随系统"
+    }
+  },
+  "export": {
+    "title": "导出",
+    "txt": "纯文本 (.txt)",
+    "html": "HTML (.html)",
+    "md": "Markdown (.md)",
+    "json": "JSON (.json)",
+    "allNotes": "导出所有笔记"
+  },
+  "notes": {
+    "untitled": "无标题笔记",
+    "lastModified": "最后修改",
+    "pin": "固定",
+    "unpin": "取消固定",
+    "duplicate": "复制",
+    "delete": "删除",
+    "rename": "重命名",
+    "moveToFolder": "移动到文件夹"
+  },
+  "toolbar": {
+    "viewMode": "视图模式",
+    "editor": "编辑器",
+    "preview": "预览",
+    "split": "分屏视图",
+    "exportNote": "导出笔记"
+  },
+  "common": {
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "confirm": "确认",
+    "close": "关闭",
+    "search": "搜索",
+    "filter": "筛选",
+    "sort": "排序",
+    "more": "更多"
+  }
+}

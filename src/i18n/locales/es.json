@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "Bloc de Notas Profesional",
+    "searchPlaceholder": "Buscar notas...",
+    "newNote": "Nueva Nota",
+    "newFolder": "Nueva Carpeta",
+    "settings": "Configuración",
+    "toggleTheme": "Cambiar Tema",
+    "toggleLanguage": "Cambiar Idioma"
+  },
+  "editor": {
+    "placeholder": "Empieza a escribir tu nota...",
+    "bold": "Negrita",
+    "italic": "Cursiva",
+    "underline": "Subrayado",
+    "strike": "Tachado",
+    "code": "Código",
+    "heading": "Encabezado",
+    "quote": "Cita",
+    "list": "Lista",
+    "bulletList": "Lista de Viñetas",
+    "orderedList": "Lista Numerada",
+    "taskList": "Lista de Tareas",
+    "link": "Enlace",
+    "image": "Imagen",
+    "table": "Tabla",
+    "clearFormat": "Limpiar Formato",
+    "undo": "Deshacer",
+    "redo": "Rehacer"
+  },
+  "sidebar": {
+    "allNotes": "Todas las Notas",
+    "favorites": "Favoritos",
+    "recent": "Recientes",
+    "trash": "Papelera",
+    "folders": "Carpetas",
+    "renameFolder": "Renombrar Carpeta",
+    "deleteFolder": "Eliminar Carpeta"
+  },
+  "commands": {
+    "title": "Paleta de Comandos",
+    "placeholder": "Escribe un comando o busca...",
+    "categories": {
+      "file": "Archivo",
+      "edit": "Editar",
+      "view": "Ver",
+      "help": "Ayuda"
+    }
+  },
+  "settings": {
+    "theme": "Tema",
+    "language": "Idioma",
+    "fontSize": "Tamaño de Fuente",
+    "fontFamily": "Fuente",
+    "autoSave": "Guardado Automático",
+    "autoSaveInterval": "Intervalo de Guardado (ms)",
+    "showLineNumbers": "Mostrar Números de Línea",
+    "wordWrap": "Ajuste de Línea",
+    "themes": {
+      "light": "Claro",
+      "dark": "Oscuro",
+      "system": "Sistema"
+    }
+  },
+  "export": {
+    "title": "Exportar",
+    "txt": "Texto Plano (.txt)",
+    "html": "HTML (.html)",
+    "md": "Markdown (.md)",
+    "json": "JSON (.json)",
+    "allNotes": "Exportar Todas las Notas"
+  },
+  "notes": {
+    "untitled": "Nota sin Título",
+    "lastModified": "Última modificación",
+    "pin": "Fijar",
+    "unpin": "Desfijar",
+    "duplicate": "Duplicar",
+    "delete": "Eliminar",
+    "rename": "Renombrar",
+    "moveToFolder": "Mover a Carpeta"
+  },
+  "toolbar": {
+    "viewMode": "Modo de Vista",
+    "editor": "Editor",
+    "preview": "Vista Previa",
+    "split": "Vista Dividida",
+    "exportNote": "Exportar Nota"
+  },
+  "common": {
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "confirm": "Confirmar",
+    "close": "Cerrar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "more": "Más"
+  }
+}

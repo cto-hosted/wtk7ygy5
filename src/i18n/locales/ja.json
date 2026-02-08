@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "プロフェッショナルメモ帳",
+    "searchPlaceholder": "メモを検索...",
+    "newNote": "新しいメモ",
+    "newFolder": "新しいフォルダ",
+    "settings": "設定",
+    "toggleTheme": "テーマを切り替え",
+    "toggleLanguage": "言語を切り替え"
+  },
+  "editor": {
+    "placeholder": "メモの入力を開始...",
+    "bold": "太字",
+    "italic": "斜体",
+    "underline": "下線",
+    "strike": "取り消し線",
+    "code": "コード",
+    "heading": "見出し",
+    "quote": "引用",
+    "list": "リスト",
+    "bulletList": "箇条書き",
+    "orderedList": "番号付きリスト",
+    "taskList": "タスクリスト",
+    "link": "リンク",
+    "image": "画像",
+    "table": "表",
+    "clearFormat": "書式をクリア",
+    "undo": "元に戻す",
+    "redo": "やり直し"
+  },
+  "sidebar": {
+    "allNotes": "すべてのメモ",
+    "favorites": "お気に入り",
+    "recent": "最近",
+    "trash": "ゴミ箱",
+    "folders": "フォルダ",
+    "renameFolder": "フォルダ名を変更",
+    "deleteFolder": "フォルダを削除"
+  },
+  "commands": {
+    "title": "コマンドパレット",
+    "placeholder": "コマンドを入力または検索...",
+    "categories": {
+      "file": "ファイル",
+      "edit": "編集",
+      "view": "表示",
+      "help": "ヘルプ"
+    }
+  },
+  "settings": {
+    "theme": "テーマ",
+    "language": "言語",
+    "fontSize": "フォントサイズ",
+    "fontFamily": "フォント",
+    "autoSave": "自動保存",
+    "autoSaveInterval": "自動保存間隔 (ms)",
+    "showLineNumbers": "行番号を表示",
+    "wordWrap": "ワードラップ",
+    "themes": {
+      "light": "ライト",
+      "dark": "ダーク",
+      "system": "システム"
+    }
+  },
+  "export": {
+    "title": "エクスポート",
+    "txt": "プレーンテキスト (.txt)",
+    "html": "HTML (.html)",
+    "md": "Markdown (.md)",
+    "json": "JSON (.json)",
+    "allNotes": "すべてのメモをエクスポート"
+  },
+  "notes": {
+    "untitled": "無題のメモ",
+    "lastModified": "最終更新",
+    "pin": "固定",
+    "unpin": "固定解除",
+    "duplicate": "複製",
+    "delete": "削除",
+    "rename": "名前を変更",
+    "moveToFolder": "フォルダに移動"
+  },
+  "toolbar": {
+    "viewMode": "表示モード",
+    "editor": "エディタ",
+    "preview": "プレビュー",
+    "split": "分割表示",
+    "exportNote": "メモをエクスポート"
+  },
+  "common": {
+    "cancel": "キャンセル",
+    "save": "保存",
+    "delete": "削除",
+    "confirm": "確認",
+    "close": "閉じる",
+    "search": "検索",
+    "filter": "フィルタ",
+    "sort": "並べ替え",
+    "more": "その他"
+  }
+}

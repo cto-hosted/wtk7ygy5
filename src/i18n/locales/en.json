@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "Professional Notepad",
+    "searchPlaceholder": "Search notes...",
+    "newNote": "New Note",
+    "newFolder": "New Folder",
+    "settings": "Settings",
+    "toggleTheme": "Toggle Theme",
+    "toggleLanguage": "Toggle Language"
+  },
+  "editor": {
+    "placeholder": "Start typing your note...",
+    "bold": "Bold",
+    "italic": "Italic",
+    "underline": "Underline",
+    "strike": "Strikethrough",
+    "code": "Code",
+    "heading": "Heading",
+    "quote": "Quote",
+    "list": "List",
+    "bulletList": "Bullet List",
+    "orderedList": "Numbered List",
+    "taskList": "Task List",
+    "link": "Link",
+    "image": "Image",
+    "table": "Table",
+    "clearFormat": "Clear Format",
+    "undo": "Undo",
+    "redo": "Redo"
+  },
+  "sidebar": {
+    "allNotes": "All Notes",
+    "favorites": "Favorites",
+    "recent": "Recent",
+    "trash": "Trash",
+    "folders": "Folders",
+    "renameFolder": "Rename Folder",
+    "deleteFolder": "Delete Folder"
+  },
+  "commands": {
+    "title": "Command Palette",
+    "placeholder": "Type a command or search...",
+    "categories": {
+      "file": "File",
+      "edit": "Edit",
+      "view": "View",
+      "help": "Help"
+    }
+  },
+  "settings": {
+    "theme": "Theme",
+    "language": "Language",
+    "fontSize": "Font Size",
+    "fontFamily": "Font Family",
+    "autoSave": "Auto Save",
+    "autoSaveInterval": "Auto Save Interval (ms)",
+    "showLineNumbers": "Show Line Numbers",
+    "wordWrap": "Word Wrap",
+    "themes": {
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
+    }
+  },
+  "export": {
+    "title": "Export",
+    "txt": "Plain Text (.txt)",
+    "html": "HTML (.html)",
+    "md": "Markdown (.md)",
+    "json": "JSON (.json)",
+    "allNotes": "Export All Notes"
+  },
+  "notes": {
+    "untitled": "Untitled Note",
+    "lastModified": "Last modified",
+    "pin": "Pin",
+    "unpin": "Unpin",
+    "duplicate": "Duplicate",
+    "delete": "Delete",
+    "rename": "Rename",
+    "moveToFolder": "Move to Folder"
+  },
+  "toolbar": {
+    "viewMode": "View Mode",
+    "editor": "Editor",
+    "preview": "Preview",
+    "split": "Split View",
+    "exportNote": "Export Note"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "close": "Close",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "more": "More"
+  }
+}

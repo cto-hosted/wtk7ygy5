@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "Professionelles Notizbuch",
+    "searchPlaceholder": "Notizen durchsuchen...",
+    "newNote": "Neue Notiz",
+    "newFolder": "Neuer Ordner",
+    "settings": "Einstellungen",
+    "toggleTheme": "Design ändern",
+    "toggleLanguage": "Sprache ändern"
+  },
+  "editor": {
+    "placeholder": "Beginnen Sie mit dem Schreiben...",
+    "bold": "Fett",
+    "italic": "Kursiv",
+    "underline": "Unterstrichen",
+    "strike": "Durchgestrichen",
+    "code": "Code",
+    "heading": "Überschrift",
+    "quote": "Zitat",
+    "list": "Liste",
+    "bulletList": "Aufzählungsliste",
+    "orderedList": "Nummerierte Liste",
+    "taskList": "Aufgabenliste",
+    "link": "Link",
+    "image": "Bild",
+    "table": "Tabelle",
+    "clearFormat": "Formatierung löschen",
+    "undo": "Rückgängig",
+    "redo": "Wiederholen"
+  },
+  "sidebar": {
+    "allNotes": "Alle Notizen",
+    "favorites": "Favoriten",
+    "recent": "Kürzlich",
+    "trash": "Papierkorb",
+    "folders": "Ordner",
+    "renameFolder": "Ordner umbenennen",
+    "deleteFolder": "Ordner löschen"
+  },
+  "commands": {
+    "title": "Befehlspalette",
+    "placeholder": "Befehl eingeben oder suchen...",
+    "categories": {
+      "file": "Datei",
+      "edit": "Bearbeiten",
+      "view": "Ansicht",
+      "help": "Hilfe"
+    }
+  },
+  "settings": {
+    "theme": "Design",
+    "language": "Sprache",
+    "fontSize": "Schriftgröße",
+    "fontFamily": "Schriftart",
+    "autoSave": "Automatisch speichern",
+    "autoSaveInterval": "Speicherintervall (ms)",
+    "showLineNumbers": "Zeilennummern anzeigen",
+    "wordWrap": "Zeilenumbruch",
+    "themes": {
+      "light": "Hell",
+      "dark": "Dunkel",
+      "system": "System"
+    }
+  },
+  "export": {
+    "title": "Exportieren",
+    "txt": "Klartext (.txt)",
+    "html": "HTML (.html)",
+    "md": "Markdown (.md)",
+    "json": "JSON (.json)",
+    "allNotes": "Alle Notizen exportieren"
+  },
+  "notes": {
+    "untitled": "Unbenannte Notiz",
+    "lastModified": "Zuletzt geändert",
+    "pin": "Anheften",
+    "unpin": "Lösen",
+    "duplicate": "Duplizieren",
+    "delete": "Löschen",
+    "rename": "Umbenennen",
+    "moveToFolder": "In Ordner verschieben"
+  },
+  "toolbar": {
+    "viewMode": "Ansichtsmodus",
+    "editor": "Editor",
+    "preview": "Vorschau",
+    "split": "Geteilte Ansicht",
+    "exportNote": "Notiz exportieren"
+  },
+  "common": {
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "confirm": "Bestätigen",
+    "close": "Schließen",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "sort": "Sortieren",
+    "more": "Mehr"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "प्रोफेशनल नोटपैड",
+    "searchPlaceholder": "नोट खोजें...",
+    "newNote": "नई नोट",
+    "newFolder": "नया फ़ोल्डर",
+    "settings": "सेटिंग्स",
+    "toggleTheme": "थीम बदलें",
+    "toggleLanguage": "भाषा बदलें"
+  },
+  "editor": {
+    "placeholder": "अपनी नोट टाइप करना शुरू करें...",
+    "bold": "बोल्ड",
+    "italic": "इटैलिक",
+    "underline": "रेखांकित",
+    "strike": "स्ट्राइकथ्रू",
+    "code": "कोड",
+    "heading": "शीर्षक",
+    "quote": "उद्धरण",
+    "list": "सूची",
+    "bulletList": "बुलेट सूची",
+    "orderedList": "क्रमांकित सूची",
+    "taskList": "कार्य सूची",
+    "link": "लिंक",
+    "image": "छवि",
+    "table": "तालिका",
+    "clearFormat": "फ़ॉर्मेट साफ़ करें",
+    "undo": "पूर्ववत करें",
+    "redo": "फिर से करें"
+  },
+  "sidebar": {
+    "allNotes": "सभी नोट्स",
+    "favorites": "पसंदीदा",
+    "recent": "हाल के",
+    "trash": "कचरा",
+    "folders": "फ़ोल्डर",
+    "renameFolder": "फ़ोल्डर का नाम बदलें",
+    "deleteFolder": "फ़ोल्डर हटाएं"
+  },
+  "commands": {
+    "title": "कमांड पैलेट",
+    "placeholder": "कमांड टाइप करें या खोजें...",
+    "categories": {
+      "file": "फ़ाइल",
+      "edit": "संपादित करें",
+      "view": "देखें",
+      "help": "सहायता"
+    }
+  },
+  "settings": {
+    "theme": "थीम",
+    "language": "भाषा",
+    "fontSize": "फ़ॉन्ट आकार",
+    "fontFamily": "फ़ॉन्ट",
+    "autoSave": "ऑटो सेव",
+    "autoSaveInterval": "ऑटो सेव अंतराल (ms)",
+    "showLineNumbers": "पंक्ति संख्या दिखाएं",
+    "wordWrap": "वर्ड रैप",
+    "themes": {
+      "light": "लाइट",
+      "dark": "डार्क",
+      "system": "सिस्टम"
+    }
+  },
+  "export": {
+    "title": "निर्यात",
+    "txt": "सादा पाठ (.txt)",
+    "html": "HTML (.html)",
+    "md": "Markdown (.md)",
+    "json": "JSON (.json)",
+    "allNotes": "सभी नोट्स निर्यात करें"
+  },
+  "notes": {
+    "untitled": "बिना शीर्षक की नोट",
+    "lastModified": "अंतिम संशोधन",
+    "pin": "पिन करें",
+    "unpin": "अनपिन करें",
+    "duplicate": "डुप्लिकेट",
+    "delete": "हटाएं",
+    "rename": "नाम बदलें",
+    "moveToFolder": "फ़ोल्डर में ले जाएं"
+  },
+  "toolbar": {
+    "viewMode": "व्यू मोड",
+    "editor": "एडिटर",
+    "preview": "प्रिव्यू",
+    "split": "स्प्लिट व्यू",
+    "exportNote": "नोट निर्यात करें"
+  },
+  "common": {
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "delete": "हटाएं",
+    "confirm": "पुष्टि करें",
+    "close": "बंद करें",
+    "search": "खोजें",
+    "filter": "फ़िल्टर",
+    "sort": "क्रमबद्ध करें",
+    "more": "अधिक"
+  }
+}
